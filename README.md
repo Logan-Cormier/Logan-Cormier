@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Logan-Cormier
 - 👀 I’m interested in High Performance Computing, Alogorithms and competitive coding
 - 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on things my work depends on
+- 💞️ I’m looking to collaborate. I want to be a part of your open-source community. 
 - 📫 How to reach me logan@ibm.com
 
 <!---
